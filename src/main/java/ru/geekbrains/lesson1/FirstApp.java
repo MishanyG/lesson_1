@@ -2,8 +2,10 @@ package ru.geekbrains.lesson1;
 
 import java.util.Scanner;
 
-public class FirstApp {
-    public static void main(String[] args) {
+public class FirstApp
+{
+    public static void main(String[] args)
+    {
         Scanner in = new Scanner(System.in);
         System.out.print("1. Введите число: ");
         int i1 = in.nextInt();
