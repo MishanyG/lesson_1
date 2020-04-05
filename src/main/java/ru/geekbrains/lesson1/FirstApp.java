@@ -22,7 +22,7 @@ public class FirstApp {
         System.out.print("3. Введите число: ");
         int c = in.nextInt();
         task_3(c);
-        System.out.print("2. Введите имя: ");
+        System.out.print("4. Введите имя: ");
         String name = in.next();
         System.out.println(task_4(name));
         System.out.print("5. Введите год: ");
